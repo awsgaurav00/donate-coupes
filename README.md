@@ -7,6 +7,6 @@ $npm install
 Start the Server: 
 Launch your server using:
 
-$npm start
+$npm run start&
 
 Open your browser at http://localhost:3000 to view the website.
